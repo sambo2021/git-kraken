@@ -1,2 +1,9 @@
-this is created on feature/SYS-1010 branch 
-adding some lines on feature/SYS-1010 branch
+1- This is created on feature/SYS-1010 branch 
+2- Adding some lines on master, commit and push 
+   so now feature/SYS-1010 branch is missing part 2 
+   what to do now : just checkout to this branch and git rebase main 
+   which means you want to rebase your cuurent branch to be the same of main 
+3- Adding some lines on branch, commit and push 
+   so now masterbranch is missing part 3
+   what to do now : just checkout to this main and git rebase feature/SYS-1010
+   which means you want to rebase your main to be the same of feature/SYS-1010
